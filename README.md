@@ -2,6 +2,6 @@
 
 ## Linear Regression
 
-    - Validation
+### Validation
 
-    - Representation
+### Representation
